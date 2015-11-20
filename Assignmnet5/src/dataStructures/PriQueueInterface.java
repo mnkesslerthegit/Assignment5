@@ -1,3 +1,4 @@
+package dataStructures;
 public interface PriQueueInterface<T extends Comparable<T>>
 
 {
