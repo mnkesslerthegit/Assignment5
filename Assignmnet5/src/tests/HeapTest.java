@@ -1,9 +1,14 @@
 package tests;
 
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
 public class HeapTest {
 
-	public HeapTest() {
-		// TODO Auto-generated constructor stub
+	@Test
+	public void test() {
+		fail("Not yet implemented");
 	}
 
 }
